@@ -1,0 +1,12 @@
+.header{
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 30px;
+}
+
+.hot{
+  color: red;
+}
+.cold{
+  color: blue;
+}
